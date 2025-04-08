@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Gunj Mehta
 
-<!--
-**gunjmehta-dev/gunjmehta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-driven frontend developer passionate about clean UI/UX, working remotely at **PixelNode Tech**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 🔹 React.js, Tailwind CSS, JavaScript
+- 🔹 Figma to Frontend
+- 🔹 Responsive, Accessible, Modern UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Live Projects
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| PixelNode Portfolio | Personal smart developer site | [Visit](https://gunjmehta-dev.github.io/pixelnode-portfolio) |
+| Taskify | Clean animated to-do app | [Visit](https://gunjmehta-dev.github.io/taskify) |
+| DashboardX | MNC-style admin dashboard | [Visit](https://gunjmehta-dev.github.io/dashboardx) |
+| DevCard | Interactive resume UI | [Visit](https://gunjmehta-dev.github.io/devcard) |
+
+---
+
+📫 Reach me: **ask.gunjmehta@gmail.com**
